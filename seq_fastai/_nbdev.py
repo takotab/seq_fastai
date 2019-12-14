@@ -79,10 +79,19 @@ index = {"subplots": "00_torch_core.ipynb",
          "script_save_ctx": "00_torch_core.ipynb",
          "script_fwd": "00_torch_core.ipynb",
          "script_bwd": "00_torch_core.ipynb",
-         "grad_module": "00_torch_core.ipynb"}
+         "grad_module": "00_torch_core.ipynb",
+         "BaseDays": "Days.ipynb",
+         "Days": "Days.ipynb",
+         "NotDays": "Days.ipynb",
+         "plot_days": "Days.ipynb",
+         "to_elapsed": "Days.ipynb",
+         "remove_last": "Days.ipynb",
+         "get_not_interval": "Days.ipynb",
+         "make_interval": "Days.ipynb"}
 
 modules = ["core.py",
-           "torch_core.py"]
+           "torch_core.py",
+           "days.py"]
 
 git_url = "https://github.com/takotab/seq_fastai/tree/master/"
 
